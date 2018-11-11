@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>3_wood.gif</file>
+        <file>getank.gif</file>
+        <file>geinfantry.gif</file>
+        <file>1_plain.gif</file>
+        <file>2_mountain.gif</file>
+    </qresource>
+</RCC>
